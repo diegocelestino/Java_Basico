@@ -1,6 +1,6 @@
 public class Calculate {
 
-    public static void main(String[] args){
+    public static void Calculate(String[] args){
 
         int x = Integer.parseInt(args[1]);
         int y = Integer.parseInt(args[2]);

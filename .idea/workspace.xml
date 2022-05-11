@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76f2316f-b309-456e-bd05-ac71c2ba12ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MegaSena.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MeuPrimeiroPrograma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,14 @@
     ]
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MegaSena">
+    <configuration name="MegaSena" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MegaSena" />
+      <module name="Java_Basico" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MeuPrimeiroPrograma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MeuPrimeiroPrograma" />
       <module name="Java_Basico" />
@@ -61,6 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MegaSena" />
         <item itemvalue="Application.MeuPrimeiroPrograma" />
       </list>
     </recent_temporary>
@@ -74,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652126548842</updated>
       <workItem from="1652126550529" duration="2145000" />
-      <workItem from="1652288271325" duration="3114000" />
+      <workItem from="1652288271325" duration="3975000" />
     </task>
     <task id="LOCAL-00001" summary="Atualização da versão jdk de 8 para 14 e agora para 18. Testando se a IDE vai funcionar.">
       <created>1652126959464</created>
@@ -111,7 +119,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652291965175</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Criação de uma calculadora simples que executa pelo prompt de comando">
+      <created>1652293240060</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652293240060</updated>
+    </task>
+    <task id="LOCAL-00007" summary="adição do bloco else ao final do código">
+      <created>1652293292372</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652293292372</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +144,8 @@
     <MESSAGE value="Aula sobre variáveis e tipos de variáveis. Sobre a palavra reservada var e seu uso." />
     <MESSAGE value="Retomada do curso." />
     <MESSAGE value="Aula sobre erros &#10;&gt;&gt;&gt; Erros de compilação&#10;&#10;acessando o projeto pelo prompt de comando:&#10;&#10;cd C:\Users\diego\IdeaProjects\Java_Basico\src&#10;&#10;compilando o programa através do comando&#10;&#10;javac MeuPrimeiroPrograma.java&#10;&#10;Gerado o arquivo MeuPrimeiroPrograma.class&#10;&#10;executando o programa com o comando&#10;&#10;java MeuPrimeiroPrograma&#10;&#10;&#10;&gt;&gt;&gt;Erros de execução&#10;&#10;são erros que ocorrem após o sucesso na compilação, são os erros ou exceções não tratadas&#10;&#10;+&#10;&#10;Aula sobre declaração de funções." />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula sobre erros &#10;&gt;&gt;&gt; Erros de compilação&#10;&#10;acessando o projeto pelo prompt de comando:&#10;&#10;cd C:\Users\diego\IdeaProjects\Java_Basico\src&#10;&#10;compilando o programa através do comando&#10;&#10;javac MeuPrimeiroPrograma.java&#10;&#10;Gerado o arquivo MeuPrimeiroPrograma.class&#10;&#10;executando o programa com o comando&#10;&#10;java MeuPrimeiroPrograma&#10;&#10;&#10;&gt;&gt;&gt;Erros de execução&#10;&#10;são erros que ocorrem após o sucesso na compilação, são os erros ou exceções não tratadas&#10;&#10;+&#10;&#10;Aula sobre declaração de funções." />
+    <MESSAGE value="Criação de uma calculadora simples que executa pelo prompt de comando" />
+    <MESSAGE value="adição do bloco else ao final do código" />
+    <option name="LAST_COMMIT_MESSAGE" value="adição do bloco else ao final do código" />
   </component>
 </project>
