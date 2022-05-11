@@ -17,6 +17,9 @@ public class Calculate {
         if (args[0].equals("dividir")){
             divide(x, y);
         }
+        else {
+            System.out.println("Nenhuma instrução definida");
+        }
         System.out.println();
     }
     static void sum(int x, int y){
