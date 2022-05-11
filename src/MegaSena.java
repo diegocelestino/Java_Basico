@@ -1,15 +1,15 @@
-import java.util.Random;
+import java.util.Scanner;
 
 public class MegaSena {
 
     public static void main(String[] args){
-        Random generate = new Random();
-        
 
-        for (int i = 0; i < 6; i++) {
-            int number = generate.nextInt(60);
-            System.out.println(number);
+        Scanner scanner = new Scanner(System.in);
 
+        System.out.println("Informe seu nome: ");
+        String name = scanner.nextLine();
+
+        System.out.println("Olá, " + name);
         }
-    }
 }
+
