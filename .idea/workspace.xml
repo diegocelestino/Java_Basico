@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76f2316f-b309-456e-bd05-ac71c2ba12ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Calculate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MeuPrimeiroPrograma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MeuPrimeiroPrograma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MeuPrimeiroPrograma.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652126548842</updated>
       <workItem from="1652126550529" duration="2145000" />
-      <workItem from="1652288271325" duration="1781000" />
+      <workItem from="1652288271325" duration="3114000" />
     </task>
     <task id="LOCAL-00001" summary="Atualização da versão jdk de 8 para 14 e agora para 18. Testando se a IDE vai funcionar.">
       <created>1652126959464</created>
@@ -103,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652288366932</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Aula sobre erros &#10;&gt;&gt;&gt; Erros de compilação&#10;&#10;acessando o projeto pelo prompt de comando:&#10;&#10;cd C:\Users\diego\IdeaProjects\Java_Basico\src&#10;&#10;compilando o programa através do comando&#10;&#10;javac MeuPrimeiroPrograma.java&#10;&#10;Gerado o arquivo MeuPrimeiroPrograma.class&#10;&#10;executando o programa com o comando&#10;&#10;java MeuPrimeiroPrograma&#10;&#10;&#10;&gt;&gt;&gt;Erros de execução&#10;&#10;são erros que ocorrem após o sucesso na compilação, são os erros ou exceções não tratadas&#10;&#10;+&#10;&#10;Aula sobre declaração de funções.">
+      <created>1652291965175</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652291965175</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +121,7 @@
     <MESSAGE value="Atualização da versão jdk de 8 para 14 e agora para 18. Testando se a IDE vai funcionar." />
     <MESSAGE value="Aula sobre variáveis e tipos de variáveis. Sobre a palavra reservada var e seu uso." />
     <MESSAGE value="Retomada do curso." />
-    <option name="LAST_COMMIT_MESSAGE" value="Retomada do curso." />
+    <MESSAGE value="Aula sobre erros &#10;&gt;&gt;&gt; Erros de compilação&#10;&#10;acessando o projeto pelo prompt de comando:&#10;&#10;cd C:\Users\diego\IdeaProjects\Java_Basico\src&#10;&#10;compilando o programa através do comando&#10;&#10;javac MeuPrimeiroPrograma.java&#10;&#10;Gerado o arquivo MeuPrimeiroPrograma.class&#10;&#10;executando o programa com o comando&#10;&#10;java MeuPrimeiroPrograma&#10;&#10;&#10;&gt;&gt;&gt;Erros de execução&#10;&#10;são erros que ocorrem após o sucesso na compilação, são os erros ou exceções não tratadas&#10;&#10;+&#10;&#10;Aula sobre declaração de funções." />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula sobre erros &#10;&gt;&gt;&gt; Erros de compilação&#10;&#10;acessando o projeto pelo prompt de comando:&#10;&#10;cd C:\Users\diego\IdeaProjects\Java_Basico\src&#10;&#10;compilando o programa através do comando&#10;&#10;javac MeuPrimeiroPrograma.java&#10;&#10;Gerado o arquivo MeuPrimeiroPrograma.class&#10;&#10;executando o programa com o comando&#10;&#10;java MeuPrimeiroPrograma&#10;&#10;&#10;&gt;&gt;&gt;Erros de execução&#10;&#10;são erros que ocorrem após o sucesso na compilação, são os erros ou exceções não tratadas&#10;&#10;+&#10;&#10;Aula sobre declaração de funções." />
   </component>
 </project>
