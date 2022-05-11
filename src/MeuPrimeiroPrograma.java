@@ -1,27 +1,16 @@
 public class MeuPrimeiroPrograma {
     public static void main(String[] args){
 
-        var login = "ola";
-        var password = "uaheuhauhea";
-
-        //int = inteiros
-        //double = double
-        //bool = booleanos
-        //string = texto
-
-        String texto = "texto";
-        int inteiro = 10;
-        double percent = 23.43;
-        boolean isDriver = true;
-        
-
-        System.out.println(texto);
-        System.out.println(inteiro);
-        System.out.println(percent);
-        System.out.println(isDriver);
-
+        calc(10, 5);
 
 
         System.out.println();
+    }
+    static void calc(int a, int b){
+
+        System.out.println(a + b);
+        System.out.println(a - b);
+        System.out.println(a * b);
+        System.out.println(a / b);
     }
 }
