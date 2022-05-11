@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76f2316f-b309-456e-bd05-ac71c2ba12ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MegaSena.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MegaSena.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652126548842</updated>
       <workItem from="1652126550529" duration="2145000" />
-      <workItem from="1652288271325" duration="4573000" />
+      <workItem from="1652288271325" duration="5007000" />
     </task>
     <task id="LOCAL-00001" summary="Atualização da versão jdk de 8 para 14 e agora para 18. Testando se a IDE vai funcionar.">
       <created>1652126959464</created>
@@ -139,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652294124205</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Aula sobre i/o">
+      <created>1652294836100</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1652294836100</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +160,7 @@
     <MESSAGE value="Criação de uma calculadora simples que executa pelo prompt de comando" />
     <MESSAGE value="adição do bloco else ao final do código" />
     <MESSAGE value="Criação de programa que gera numeros aleatórios utilizando a classe Random." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação de programa que gera numeros aleatórios utilizando a classe Random." />
+    <MESSAGE value="Aula sobre i/o" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula sobre i/o" />
   </component>
 </project>
