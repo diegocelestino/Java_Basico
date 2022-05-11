@@ -4,8 +4,6 @@ public class MeuPrimeiroPrograma {
         var login = "ola";
         var password = "uaheuhauhea";
 
-
-
         //int = inteiros
         //double = double
         //bool = booleanos
@@ -15,6 +13,7 @@ public class MeuPrimeiroPrograma {
         int inteiro = 10;
         double percent = 23.43;
         boolean isDriver = true;
+        
 
         System.out.println(texto);
         System.out.println(inteiro);

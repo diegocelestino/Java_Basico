@@ -69,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652126548842</updated>
-      <workItem from="1652126550529" duration="2020000" />
+      <workItem from="1652126550529" duration="2145000" />
     </task>
     <task id="LOCAL-00001" summary="Atualização da versão jdk de 8 para 14 e agora para 18. Testando se a IDE vai funcionar.">
       <created>1652126959464</created>
@@ -85,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652128314071</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Aula sobre variáveis e tipos de variáveis. Sobre a palavra reservada var e seu uso.">
+      <created>1652128635361</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652128635361</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
