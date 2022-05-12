@@ -1,14 +1,54 @@
-import java.util.Arrays;
+import java.util.*;
 
 public class Main {
+    public static void main(String[] args) {
 
-    public static void main(String[] args){
+        List<String> names = new ArrayList<>();
 
-        int[] numbers = new int[] {2, 4, 1, 6, 8, 3, 5, 5};
-        Arrays.sort(numbers);
+        names.add("Diego");
+        names.add("Carlinhos");
+        names.add("Macaxeira");
+        names.add("Dominó");
 
-        System.out.println(Arrays.toString(numbers));
-        
+
 
     }
+
+    public static void Teste1(){
+        List<String> names = new ArrayList<>();
+
+        names.add("Diego");
+        names.add("Carlinhos");
+        names.add("Macaxeira");
+        names.add("Dominó");
+
+        for(int i = 0; i < names.size(); i++){
+            System.out.println(names.get(i));
+        }
+
+        int index = names.indexOf("Carlinhos");
+        System.out.println(index);
+
+        System.out.println(names.isEmpty());
+
+        System.out.println(names.contains("Macaxeira"));
+
+        names.clear();
+    }
+
+    public static void Teste2() {
+
+        List<String> names = new ArrayList<>();
+
+        names.add("Diego");
+        names.add("Carlinhos");
+        names.add("Macaxeira");
+        names.add("Dominó");
+
+        Collections.sort(names);
+        for (String name : names) {
+            System.out.println(name);
+        }
+    }
+
 }

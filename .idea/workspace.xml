@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f2316f-b309-456e-bd05-ac71c2ba12ae" name="Changes" comment="">
+    <list default="true" id="76f2316f-b309-456e-bd05-ac71c2ba12ae" name="Changes" comment="Utilização do toString.&#10;No java é importante conhecer esses métodos que parecem um pouco contra-intuitivos, tais como o próprio .toString e o .equals">
+      <change afterPath="$PROJECT_DIR$/src/ComparacaoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrdenacaoDeArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PreenchimentoDeArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO2/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO2/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO2/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO2/src/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +51,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "Docker"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -65,7 +71,7 @@
       <recent name="C:\Users\diego\IdeaProjects\Java_Basico\Basico" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="POO2" />
@@ -103,8 +109,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.App" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MeuPrimeiroPrograma" />
         <item itemvalue="Application.ManipulandoStrings" />
         <item itemvalue="Application.MegaSena" />
@@ -123,7 +129,7 @@
       <workItem from="1652288271325" duration="6903000" />
       <workItem from="1652300482662" duration="321000" />
       <workItem from="1652302469627" duration="294000" />
-      <workItem from="1652374665024" duration="9067000" />
+      <workItem from="1652374665024" duration="13110000" />
     </task>
     <task id="LOCAL-00001" summary="Atualização da versão jdk de 8 para 14 e agora para 18. Testando se a IDE vai funcionar.">
       <created>1652126959464</created>
@@ -230,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652384497636</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Utilização do toString.&#10;No java é importante conhecer esses métodos que parecem um pouco contra-intuitivos, tais como o próprio .toString e o .equals">
+      <created>1652386565482</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1652386565482</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +263,11 @@
     <MESSAGE value="Introdução a orientação a objetos" />
     <MESSAGE value="Introdução a orientação a objetos II" />
     <MESSAGE value="Algoritmo da sequencia de fibonacci" />
-    <option name="LAST_COMMIT_MESSAGE" value="Algoritmo da sequencia de fibonacci" />
+    <MESSAGE value="Utilização do toString.&#10;No java é importante conhecer esses métodos que parecem um pouco contra-intuitivos, tais como o próprio .toString e o .equals" />
+    <option name="LAST_COMMIT_MESSAGE" value="Utilização do toString.&#10;No java é importante conhecer esses métodos que parecem um pouco contra-intuitivos, tais como o próprio .toString e o .equals" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
