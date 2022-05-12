@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76f2316f-b309-456e-bd05-ac71c2ba12ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basico/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basico/Basico.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basico/ManipulandoStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Guitar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basico/Calculate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ManipulandoStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MegaSena.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basico/MegaSena.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basico/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Guitar.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +59,14 @@
       <recent name="C:\Users\diego\IdeaProjects\Java_Basico\Basico" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ManipulandoStrings">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Java_Basico" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ManipulandoStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ManipulandoStrings" />
       <module name="Java_Basico" />
@@ -94,9 +90,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.MeuPrimeiroPrograma" />
         <item itemvalue="Application.ManipulandoStrings" />
         <item itemvalue="Application.MegaSena" />
-        <item itemvalue="Application.MeuPrimeiroPrograma" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +109,7 @@
       <workItem from="1652288271325" duration="6903000" />
       <workItem from="1652300482662" duration="321000" />
       <workItem from="1652302469627" duration="294000" />
-      <workItem from="1652374665024" duration="3531000" />
+      <workItem from="1652374665024" duration="4164000" />
     </task>
     <task id="LOCAL-00001" summary="Atualização da versão jdk de 8 para 14 e agora para 18. Testando se a IDE vai funcionar.">
       <created>1652126959464</created>
@@ -198,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652374697533</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Introdução a orientação a objetos">
+      <created>1652378868458</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1652378868458</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +219,7 @@
     <MESSAGE value="Aulas sobre tipos primitivos e objetos, comparação entre int e Integer. &#10;Aula sobre escopo de variáveis." />
     <MESSAGE value="Perdi um bom tempo configurando o encoding do Intellij que ou não mostrava os acentos no terminal e fazia a contagem correta de caracteres na string ou exibia corretamente mas acrescentava uma unidade para cada acento presente na frase. Não soube até o momento contornar esse problema." />
     <MESSAGE value="Retomada do curso." />
-    <option name="LAST_COMMIT_MESSAGE" value="Retomada do curso." />
+    <MESSAGE value="Introdução a orientação a objetos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Introdução a orientação a objetos" />
   </component>
 </project>
