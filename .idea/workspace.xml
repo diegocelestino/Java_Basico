@@ -5,9 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76f2316f-b309-456e-bd05-ac71c2ba12ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Guitar.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO2/POO2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO2/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO2/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO_1/POO_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO_1/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO_1/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basico/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basico/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basico/Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basico/src/Calculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basico/ManipulandoStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basico/src/ManipulandoStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basico/MegaSena.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basico/src/MegaSena.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basico/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basico/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +59,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Users/diego/IdeaProjects/Java_Basico/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,13 +73,27 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\IdeaProjects\Java_Basico\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\IdeaProjects\Java_Basico\Basico\src" />
+      <recent name="C:\Users\diego\IdeaProjects\Java_Basico\POO_1\src" />
+      <recent name="C:\Users\diego\IdeaProjects\Java_Basico\src" />
+      <recent name="C:\Users\diego\IdeaProjects\Java_Basico\POO_1" />
       <recent name="C:\Users\diego\IdeaProjects\Java_Basico\Basico" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="POO2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Java_Basico" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,6 +122,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.MeuPrimeiroPrograma" />
         <item itemvalue="Application.ManipulandoStrings" />
@@ -109,7 +142,7 @@
       <workItem from="1652288271325" duration="6903000" />
       <workItem from="1652300482662" duration="321000" />
       <workItem from="1652302469627" duration="294000" />
-      <workItem from="1652374665024" duration="4164000" />
+      <workItem from="1652374665024" duration="8171000" />
     </task>
     <task id="LOCAL-00001" summary="Atualização da versão jdk de 8 para 14 e agora para 18. Testando se a IDE vai funcionar.">
       <created>1652126959464</created>
@@ -202,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652378868458</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Introdução a orientação a objetos II">
+      <created>1652379373325</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1652379373325</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +260,7 @@
     <MESSAGE value="Perdi um bom tempo configurando o encoding do Intellij que ou não mostrava os acentos no terminal e fazia a contagem correta de caracteres na string ou exibia corretamente mas acrescentava uma unidade para cada acento presente na frase. Não soube até o momento contornar esse problema." />
     <MESSAGE value="Retomada do curso." />
     <MESSAGE value="Introdução a orientação a objetos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Introdução a orientação a objetos" />
+    <MESSAGE value="Introdução a orientação a objetos II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Introdução a orientação a objetos II" />
   </component>
 </project>
