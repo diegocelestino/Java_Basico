@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Basico/Basico.iml" filepath="$PROJECT_DIR$/Basico/Basico.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Basico.iml" filepath="$PROJECT_DIR$/Java_Basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KnightTour/KnightTour.iml" filepath="$PROJECT_DIR$/KnightTour/KnightTour.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO2/POO2.iml" filepath="$PROJECT_DIR$/POO2/POO2.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO_1/POO_1.iml" filepath="$PROJECT_DIR$/POO_1/POO_1.iml" />
     </modules>

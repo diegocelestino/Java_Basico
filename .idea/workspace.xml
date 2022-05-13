@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f2316f-b309-456e-bd05-ac71c2ba12ae" name="Changes" comment="Utilização do toString.&#10;No java é importante conhecer esses métodos que parecem um pouco contra-intuitivos, tais como o próprio .toString e o .equals">
-      <change afterPath="$PROJECT_DIR$/src/ComparacaoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrdenacaoDeArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PreenchimentoDeArrays.java" afterDir="false" />
+    <list default="true" id="76f2316f-b309-456e-bd05-ac71c2ba12ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/KnightTour/KnightTour.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KnightTour/src/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KnightTour/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KnightTour/src/Moves.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/POO2/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO2/src/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/POO2/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO2/src/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/diego/IdeaProjects/Java_Basico/src",
+    "last_opened_file_path": "C:/Users/diego/IdeaProjects/Java_Basico",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,10 +70,17 @@
       <recent name="C:\Users\diego\IdeaProjects\Java_Basico\Basico" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="POO2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="KnightTour" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,13 +99,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MegaSena" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MegaSena" />
-      <module name="Java_Basico" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MeuPrimeiroPrograma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MeuPrimeiroPrograma" />
       <module name="Java_Basico" />
@@ -109,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MeuPrimeiroPrograma" />
         <item itemvalue="Application.ManipulandoStrings" />
-        <item itemvalue="Application.MegaSena" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +128,9 @@
       <workItem from="1652288271325" duration="6903000" />
       <workItem from="1652300482662" duration="321000" />
       <workItem from="1652302469627" duration="294000" />
-      <workItem from="1652374665024" duration="13110000" />
+      <workItem from="1652374665024" duration="13361000" />
+      <workItem from="1652392102494" duration="88000" />
+      <workItem from="1652399248823" duration="3660000" />
     </task>
     <task id="LOCAL-00001" summary="Atualização da versão jdk de 8 para 14 e agora para 18. Testando se a IDE vai funcionar.">
       <created>1652126959464</created>
@@ -243,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652386565482</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Finalizando o curso de java do canal do Tiago Aguiar.&#10;Interessantes abordagens sobre hashcodes e o método equals, além de um pânorama sobre propriedades estáticas das classes.">
+      <created>1652391011652</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1652391011658</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,7 +272,8 @@
     <MESSAGE value="Introdução a orientação a objetos II" />
     <MESSAGE value="Algoritmo da sequencia de fibonacci" />
     <MESSAGE value="Utilização do toString.&#10;No java é importante conhecer esses métodos que parecem um pouco contra-intuitivos, tais como o próprio .toString e o .equals" />
-    <option name="LAST_COMMIT_MESSAGE" value="Utilização do toString.&#10;No java é importante conhecer esses métodos que parecem um pouco contra-intuitivos, tais como o próprio .toString e o .equals" />
+    <MESSAGE value="Finalizando o curso de java do canal do Tiago Aguiar.&#10;Interessantes abordagens sobre hashcodes e o método equals, além de um pânorama sobre propriedades estáticas das classes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalizando o curso de java do canal do Tiago Aguiar.&#10;Interessantes abordagens sobre hashcodes e o método equals, além de um pânorama sobre propriedades estáticas das classes." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
