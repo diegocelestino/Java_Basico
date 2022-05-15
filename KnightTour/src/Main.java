@@ -4,9 +4,11 @@ public class Main {
 
         Board board = new Board();
         Board.print(board);
-
-
         Moves moves = new Moves();
+
+        System.out.println(Solution.isSafe(0, 0, board.matrix));
+
+
 
 
     }

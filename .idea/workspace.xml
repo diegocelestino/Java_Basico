@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f2316f-b309-456e-bd05-ac71c2ba12ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/KnightTour/KnightTour.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KnightTour/src/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KnightTour/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KnightTour/src/Moves.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="76f2316f-b309-456e-bd05-ac71c2ba12ae" name="Changes" comment="Implementação do algoritimo do Passeio do Cavalo aplicando classes e objetos com finalidade de praticar os fundamentos do curso de Java e de quebra treinar um pouco de backtracking. &#10;Esse projeto é baseado em uma solução para esse problema escrita em python presente no seguinte link &gt;&#10;https://www.codespeedy.com/the-knights-tour-problem-in-python/">
+      <change afterPath="$PROJECT_DIR$/KnightTour/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KnightTour/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/KnightTour/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +127,7 @@
       <workItem from="1652302469627" duration="294000" />
       <workItem from="1652374665024" duration="13361000" />
       <workItem from="1652392102494" duration="88000" />
-      <workItem from="1652399248823" duration="3660000" />
+      <workItem from="1652399248823" duration="6111000" />
     </task>
     <task id="LOCAL-00001" summary="Atualização da versão jdk de 8 para 14 e agora para 18. Testando se a IDE vai funcionar.">
       <created>1652126959464</created>
@@ -251,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652391011658</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Implementação do algoritimo do Passeio do Cavalo aplicando classes e objetos com finalidade de praticar os fundamentos do curso de Java e de quebra treinar um pouco de backtracking. &#10;Esse projeto é baseado em uma solução para esse problema escrita em python presente no seguinte link &gt;&#10;https://www.codespeedy.com/the-knights-tour-problem-in-python/">
+      <created>1652403703731</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1652403703739</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,7 +277,8 @@
     <MESSAGE value="Algoritmo da sequencia de fibonacci" />
     <MESSAGE value="Utilização do toString.&#10;No java é importante conhecer esses métodos que parecem um pouco contra-intuitivos, tais como o próprio .toString e o .equals" />
     <MESSAGE value="Finalizando o curso de java do canal do Tiago Aguiar.&#10;Interessantes abordagens sobre hashcodes e o método equals, além de um pânorama sobre propriedades estáticas das classes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finalizando o curso de java do canal do Tiago Aguiar.&#10;Interessantes abordagens sobre hashcodes e o método equals, além de um pânorama sobre propriedades estáticas das classes." />
+    <MESSAGE value="Implementação do algoritimo do Passeio do Cavalo aplicando classes e objetos com finalidade de praticar os fundamentos do curso de Java e de quebra treinar um pouco de backtracking. &#10;Esse projeto é baseado em uma solução para esse problema escrita em python presente no seguinte link &gt;&#10;https://www.codespeedy.com/the-knights-tour-problem-in-python/" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementação do algoritimo do Passeio do Cavalo aplicando classes e objetos com finalidade de praticar os fundamentos do curso de Java e de quebra treinar um pouco de backtracking. &#10;Esse projeto é baseado em uma solução para esse problema escrita em python presente no seguinte link &gt;&#10;https://www.codespeedy.com/the-knights-tour-problem-in-python/" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
