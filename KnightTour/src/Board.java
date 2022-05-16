@@ -23,4 +23,13 @@ public class Board {
         }
     }
 
+    public static void print(int[][] board){
+        for (int i = 0; i < length; i++) {
+            for (int j = 0; j < length; j++) {
+                System.out.print(board[i][j] + " ");
+            }
+            System.out.println();
+        }
+    }
+
 }
